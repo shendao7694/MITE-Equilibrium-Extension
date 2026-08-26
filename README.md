@@ -1,12 +1,12 @@
 # MITE Equilibrium Extension
-> 原作者：[https://github.com/Lithewings](https://github.com/Lithewings) 原作者仓库：[https://github.com/Lithewings/MITE_Equilibrium](https://github.com/Lithewings/MITE_Equilibrium)
+> 原作：[https://github.com/Lithewings/MITE_Equilibrium](https://github.com/Lithewings/MITE_Equilibrium)
 
-本模组是 MITE Equilibrium 的扩展，基于原作者 Lithewings 的硬核生存模组进行内容扩充。原模组以 Minecraft Fabric 1.21.1 为框架，重塑了经典整合包 MITE-R196 的核心机制，并提供了从零开始挑战末影龙的线性进度体验。而本扩展则在原版硬核的基础上，添加了全新的后期内容，让挑战更加深入。
+本模组是 MITE Equilibrium 的扩展，基于原作 MITE Equilibrium 的硬核生存模组进行内容扩充。原模组以 Minecraft Fabric 1.21.1 为框架，重塑了经典整合包 MITE-R196 的核心机制，并提供了从零开始挑战末影龙的线性进度体验。而本扩展则在原版硬核的基础上，添加了全新的后期内容，让挑战更加深入。
 
 ## 下载
 [https://github.com/shendao7694/MITE-Equilibrium-Extension/releases/tag/ReleaseVersion](Github)
 或者
-[https://appli.cc.cd:8076/files/MITE-Equilibrium-0.0.1-Extension.jar](Website)
+[https://appli.cc.cd/mite-equilibrium-extension](Crazy Crate)
 
 ## 扩展内容一览
 
