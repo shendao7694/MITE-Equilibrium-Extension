@@ -3,6 +3,11 @@
 
 本模组是 MITE Equilibrium 的扩展，基于原作者 Lithewings 的硬核生存模组进行内容扩充。原模组以 Minecraft Fabric 1.21.1 为框架，重塑了经典整合包 MITE-R196 的核心机制，并提供了从零开始挑战末影龙的线性进度体验。而本扩展则在原版硬核的基础上，添加了全新的后期内容，让挑战更加深入。
 
+## 下载
+[https://github.com/shendao7694/MITE-Equilibrium-Extension/releases/tag/ReleaseVersion](Github)
+或者
+[https://appli.cc.cd:8076/files/MITE-Equilibrium-0.0.1-Extension.jar](Website)
+
 ## 扩展内容一览
 
 1. 全新材料与装备：添加了振金、无尽、精华、奇异物质等多套从中期到毕业的完整材料线，以及对应的工具、武器和盔甲。
